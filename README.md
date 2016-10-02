@@ -1,2 +1,16 @@
 # PiKey
-Raspberry Pi 3 + Teensy 3.2 = USB gadget on steroids!!!
+
+Raspberry Pi 3 + Teensy 3.2 = PiKey: a USB gadget on steroids!!!
+
+There has been a lot of interest recently over the use of the new Pi Zero as a USB gadget. This reminded me of an idea I had several months ago but hadn't had time to pursue. I came across some Youtube videos and websites that used the Teensy as the controller of various Human Interface Devices (HID), keyboards, mice and so forth. Some of them were just clones of the kind of off the shelf kit you could pick up in any electrical retailer. But some of them seemed to be either superior to the original: like programmable split keyboards; or just plain original: like a one-handed glove keyboard.
+
+This is all well and good but there was one seemingly small project that caught my eye http://www.goewert.org/2012/08/teensytyper-teensyduino-usb-keyboard.html. The site belongs to John Goewert and he programmed his Teensy to automate logging into various different servers at work. This saves him having to lug a keyboard around and having to remember various different passwords etc. Pretty neat. Most people have a number of monotonous, repetitive tasks they are obliged to undertake at work.
+
+All of which got me thinking about Larry Wall's programmers are lazy quote. I'm VERY lazy and I'm prepared to work VERY hard at being lazy! I want something like this: only better. If it's going to be better it is going to have to be bigger, faster and have more functionality. For it's diminuitive size (they're called Teensy for a reason!) it packs a lot of punch but there are clearly limits. The TeensyTyper is featherweight, it's Prince Naseem Hamed. I want Mike Tyson or Muhammad Ali.
+
+Some of the projects I came across harness a Pi in combination with one or more Teensy boards so I know that I should be able to get them talking to each other. There are also countless examples of Pi powered laptops and tablets. What if the two were merged? The Pi is the brains of the operation and uses the Teensy as a mouth and ears to interact with a PC. Or, as I imagine it in my head, the Teensy is the Babel fish in H2G2 mediating communication and the Pi is Deep Thought and does all the heavy lifting.
+
+Now I'm not a hardware guy and I'm not a software guy either. What I am is an enthusiastic amateur...but I'd like to turn pro. I saw this post http://bigl.es/page/3/ (no, it isn't topless, nor are they large women with sensible shoes) a couple of weeks back and it got me thinking - if he can do it, why can't I? The only thing stopping me (apart from the lack of ability and technical knowledge) is my own inaction. I can sit at my desk mindlessly typing, pointing and clicking and loathing every minute of it for a reasonable salary or I can make every attempt possible to get the fudge out of Rog and find some fulfilling role. Money doesn't make you happy, although it does pay the bills, and if your work is also your hobby it doesn't seem like work. So, this is the hopefully the first of a series of steps down a different path. Here's to Big Les, slainte mhahth!
+
+You can follow progress here and on the Pi forum https://www.raspberrypi.org/forums/viewtopic.php?f=41&t=161279. I'm also working on my own webserver to host the project logs and whatever else takes my fancy. I'll post a link shortly when it's online. If you have any observations, comments, criticisms or would like to help in even the most trivial of ways then I'm all ears.
+
